@@ -11,7 +11,7 @@ SECRET_KEY = 'django-insecure-freshcart-demo-key-change-this-in-production'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1","localhost"]
+ALLOWED_HOSTS = ["127.0.0.1","localhost","freshcart-django-r8f2.onrender.com",]
 
 INSTALLED_APPS = [
     'django.contrib.admin',
